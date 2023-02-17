@@ -1,0 +1,7 @@
+{
+  "name": "aosStats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
